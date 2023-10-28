@@ -1,4 +1,5 @@
-
+<div style="background-color:#2C2F33 ;">
+  
 # Luca lernt Java
 
 Alles rund um Java ;)
@@ -29,3 +30,4 @@ function App() {
 
 - [@maystudios](https://www.github.com/maystudios)
 
+</div>
